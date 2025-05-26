@@ -12,7 +12,7 @@ const Projects = () => {
       <div className={styles.projectsContainer}>
         <ProjectCard
           src={viberr}
-          link="https://github.com/Syed-Sayem/Space_Website"
+          link="https://github.com/Syed-Sayem/1._space_website"
           h3="Space Website"
           p="ALT_34"
         />
